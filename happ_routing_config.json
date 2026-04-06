@@ -1,5 +1,5 @@
 {
-  "Name": "Default",
+  "Name": "Baypass ru sites",
   "GlobalProxy": "true",
   "RouteOrder": "block-direct-proxy",
   "RemoteDNSType": "DoH",
@@ -16,7 +16,6 @@
     "dns.google": "8.8.8.8"
   },
   "DirectSites": [
-    "xn--d1acpjx3f.xn--p1ai",
     "adfox.ru",
     "admetrica.ru",
     "naydex.net",
@@ -364,7 +363,7 @@
     "224.0.0.0/4",
     "255.255.255.255"
   ],
-  "ProxySites": [""],
+  "ProxySites": [],
   "ProxyIp": [],
   "BlockSites": [],
   "BlockIp": [],
